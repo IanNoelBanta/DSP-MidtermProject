@@ -1,0 +1,35 @@
+abstract - compilation
+
+introduction
+- discuss definition ng  temperature & humidity
+- objectives of the study (1-3 na question ni sir)
+- why important or shit
+- mention yung hypothesis?
+
+theory discussionn
+- trend analysis and why it is important
+- time series analysis (stats side)
+- fourier analysis (dsp side)
+- regression analysis
+- imputing data kapag may kulang and justify bakit okay lang yon sa analysis ng temp and humid
+- alamin yung best visualizatiol tool para sa temp and humid
+
+methodology 
+- discuss kung kailan nagsimula at nag-end collection ng data
+- descriptive ANALYSIS gagamitin
+- sabihin na ddiscuss yung periodicity, central tendencies from diff. time intervals, and ano yung pattern
+- descriptive STATS - discuss yung mean, median, mode, variance, standard dev, signal to noise ratio, coefficient of variation IN RELATION TO DSP
+- different equations na gagamitin
+- algorithm table if need
+
+
+results and discussion
+- purely based sa image na lalabas
+
+conclusion
+- summary
+- "Specifically, students should discuss what further DSP method will 
+they be doing for the finals"
+
+references
+- ieeeeeeeeeeeeeeeeeeeeee
