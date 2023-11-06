@@ -5,3 +5,5 @@
 | *Pabelico, John Paul B.*  |
 | *Santander, Mark Adrian P.*   |
 | *Villasor, Vince Kazer M.*  |
+
+[**Midterm Paper Link:**](https://www.youtube.com/watch?v=OYLlr_qaVyE)
