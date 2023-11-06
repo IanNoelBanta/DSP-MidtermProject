@@ -1,7 +1,14 @@
 # Digital Signal Processing - MidtermProject
-Submitted by: Figure4
+Submitted by: **Figure4**
+
 Members:
 - Banta
 - Pabelico
 - Santander
 - Villasor
+
+
+| Members     |
+|   :----:    |
+| Header      |
+| Paragraph   |
