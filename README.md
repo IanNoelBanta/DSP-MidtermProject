@@ -1,8 +1,7 @@
 # Digital Signal Processing - MidtermProject
-Submitted by: **Figure4**
-| Figure4 Members     |
+| Figure4 Members |
 |   :----:    |
-| Banta       |
-| Pabelico    |
-| Santander   |
-| Villasor   |
+| Banta, Ian Noel M.     |
+| Pabelico, John Paul B.   |
+| Santander, Mark Adrian P.   |
+| Villasor, Vince Kazer M.  |
